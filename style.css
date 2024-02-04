@@ -1,0 +1,15 @@
+/* Style for completed to-dos */
+.completed {
+    text-decoration: line-through; /* Add a strike-through for completed items */
+    color: #999; /* Change text color for completed items */
+}
+
+/* Style for buttons */
+button {
+    background-color: #ff6347; /* Red background color */
+    color: white; /* White text color */
+    border: none;
+    padding: 5px 10px;
+    margin-left: 5px;
+    cursor: pointer;
+}
