@@ -1,4 +1,4 @@
-Click here for application --> https://pattherogue.github.io/ToDo-Project/
+Explore Live Demo --> https://pattherogue.github.io/ToDo-Project/
 
 Title of Project: "Interactive Todo App with LocalStorage Integration"
 
